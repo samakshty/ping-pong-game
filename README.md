@@ -33,14 +33,6 @@ For MacOs: run in terminal
 bash script.bat
 ```
 
-```
-
-```
-
-```
-
-```
-
 ---
 
 ## Game Screenshot
